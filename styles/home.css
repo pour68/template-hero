@@ -14,7 +14,7 @@ body {
     background-image: url(../img/coffee-code.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 25%;
+    background-position-x: 60%;
 }
 
 .cover a {
