@@ -63,6 +63,7 @@ body {
     height: calc(100vh - 45px);
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 .home h1 {
@@ -97,5 +98,18 @@ body {
 @media (max-width: 768px) {
     .home h1 {
         font-size: 1.4rem;
+    }
+
+    .logo {
+        font-size: 0.75rem;
+    }
+
+    .navbar a {
+        margin-left: 0.5rem;
+        font-size: 0.75rem;
+    }
+
+    .home p {
+        font-size: 0.8rem;
     }
 }
